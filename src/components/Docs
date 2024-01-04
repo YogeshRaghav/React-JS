@@ -1,0 +1,15 @@
+This process of requesting and serving UI has three steps:
+
+ 1 Triggering a render (delivering the guest’s order to the kitchen)
+ 2 Rendering the component (preparing the order in the kitchen)
+ 3 Committing to the DOM (placing the order on the table)
+
+Any screen update in a React app happens in three steps:
+ 1  Trigger
+ 2  Render
+ 3  Commit
+
+ JSX stands for JavaScript XML. JSX allows us to write HTML in React. 
+ JSX makes it easier to write and add HTML in React.
+
+ Rendering is React's process of describing a user interface based on the application's current state and props.

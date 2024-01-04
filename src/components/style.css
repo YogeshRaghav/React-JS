@@ -1,0 +1,36 @@
+.Chai{
+    background-color: lightblue;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin: 20px;
+}
+
+.cup{
+    margin: 20px;
+    color: black;
+    background-color: violet;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.toolbar{
+    margin: 20px;
+    display: flex;
+    gap : 10px
+}    
+
+.goal{
+    margin: 20px;
+    color: darkslategray;
+}
+
+.gallery{
+    margin: 20px;
+}
+
+.btn{
+    cursor: pointer;
+}
